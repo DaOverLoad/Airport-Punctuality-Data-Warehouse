@@ -1,0 +1,5 @@
+﻿ratings_id,ratings,avg_delay_thres,on_time_thres,cancellation_thres
+RT01,Excellent,≤ 5 mins,≥ 85%,≤ 5%
+RT02,Good,≤ 15 mins,≥ 70%,≤ 10%
+RT03,Fair,≤ 30 mins,≥ 50%,≤ 15%
+RT04,Poor,> 30 mins,< 50%,> 15%
